@@ -28,6 +28,7 @@
 - [Zac Driscoll]
 - Reva Vijayn
 - [Christopher Beharry-Yambo] (https://github.com/cabyambo)
+- Omar H
 - [Claudia Brito] (https://github.com/claudiabrito96)
 - [Patrick Harris](https://github.com/PatrickHJR)
 - [Brian Tsai](https://github.com/bpsimusic)
